@@ -1,5 +1,5 @@
-Se nos solicita la creación de una Tienda Online creando una clase.
-Dispondremos de un inventario, una lista de clientes y ventas totales.
+Se nos solicita la creación de una **Tienda Online** creando una clase.
+Dispondremos de un *inventario*, una *lista de clientes* y *ventas totales*.
 
 En la tienda debemos poder realizar las siguientes funciones:
   - Agregar producto
@@ -9,3 +9,6 @@ En la tienda debemos poder realizar las siguientes funciones:
   - Eliminar producto
   - Calcular el valor del inventario
   - Realizar una compra por parte del cliente
+  - Procesar un pago
+  - Agregar un cliente
+  - Ver clientes registrados
