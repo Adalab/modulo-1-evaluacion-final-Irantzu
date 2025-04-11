@@ -12,3 +12,6 @@ En la tienda debemos poder realizar las siguientes funciones:
   - Procesar un pago
   - Agregar un cliente
   - Ver clientes registrados
+  - Registrar una compra para un cliente
+  - Mostrar el historial de compras de un cliente
+  - Calcular las ventas totales de la tienda
